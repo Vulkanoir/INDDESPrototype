@@ -24,6 +24,7 @@ body{
     grid-template-rows: repeat(5,1fr);
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
 .circle {
